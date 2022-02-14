@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//edits
+
 public class CameraController : MonoBehaviour
 {
     [SerializeField] private Vector3 offset;
